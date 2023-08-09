@@ -1,0 +1,34 @@
+.bimage{
+  position: relative;
+
+}
+body{
+    background-color: #F0F0F0;
+}
+.bname{
+    text-align: center;
+    font: 5em sans-serif;
+}
+.offers{
+    font-size: large;
+    color: 	#FE347E;
+}
+.userlogo{
+   margin-top: 10px;
+}
+
+.cartlogo{
+    margin-top: 10px;
+}
+.hcat{
+    text-align: center;
+}
+h3{
+    text-align: center;
+}
+sub{
+    font-size: smaller;
+}
+h5{
+    text-align: center;
+}
