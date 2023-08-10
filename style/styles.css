@@ -16,9 +16,15 @@ body{
 .userlogo{
    margin-top: 10px;
 }
+.userlogo:hover{
+  color:#FE347E;
+}
 
 .cartlogo{
     margin-top: 10px;
+}
+.cartlogo:hover{
+  color:#FE347E;
 }
 .hcat{
     text-align: center;
