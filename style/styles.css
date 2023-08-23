@@ -41,7 +41,18 @@ h5{
 
 .labels{
     border-radius: 50%;
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+    gap:20px;
+    flex-wrap: wrap;
     
+    
+}
+.labeldiv{
+    display: flex;
+    justify-content: center;
+    align-items: center;
     
 }
 .poster{
